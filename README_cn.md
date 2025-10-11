@@ -12,8 +12,6 @@
 [![pub package](https://img.shields.io/pub/popularity/ume.svg)](https://pub.dev/packages/ume)
 [![pub package](https://img.shields.io/pub/publisher/ume.svg)](https://pub.dev/packages/ume)
 
-**Since `^1.0.0`, ume starts adapting to the Flutter 3. See [Quick Start] to learn more.**
-
 点击链接下载 apk，快速体验 UME。 https://github.com/ume-community/ume/releases
 
 最新版本(1.0.1)内置 13 个插件，

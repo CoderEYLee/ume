@@ -12,8 +12,6 @@
 [![pub package](https://img.shields.io/pub/popularity/ume.svg)](https://pub.dev/packages/ume)
 [![pub package](https://img.shields.io/pub/publisher/ume.svg)](https://pub.dev/packages/ume)
 
-**Since `^1.0.0`, ume starts adapting to the Flutter 3. See [Quick Start] to learn more.**
-
 Scan QR code or click link to download apk. Try it now!
 https://github.com/ume-community/ume/releases
 
